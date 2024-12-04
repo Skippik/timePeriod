@@ -1,7 +1,8 @@
+import TimePeriodMain from './pages/TimePeriodMain';
 import './styles/index.less';
 
 const App = () => {
-  return <></>;
+  return <TimePeriodMain />;
 };
 
 export default App;
